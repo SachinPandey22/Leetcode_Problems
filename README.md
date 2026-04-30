@@ -22,3 +22,15 @@ The repository is organized into folders for each problem. Each folder typically
 
 ---
 *“Talk is cheap. Show me the code.” – Linus Torvalds*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/SachinPandey22/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/SachinPandey22/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
+<!---LeetCode Topics End-->
