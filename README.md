@@ -36,5 +36,6 @@ The repository is organized into folders for each problem. Each folder typically
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SachinPandey22/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SachinPandey22/Leetcode_Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
