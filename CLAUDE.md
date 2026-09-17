@@ -34,6 +34,7 @@ This folder is used for daily LeetCode problem solving in Python.
 - Keep the solution scoped to the problem, without unrelated refactors.
 
 ## File conventions
+- Put every solution file inside `practice/` so the repo root stays clear.
 - Use snake_case filenames such as `two_sum.py` or `merge_two_sorted_lists.py`.
 - Use the standard LeetCode naming style for the class method when provided by the prompt.
 - Keep the file self-contained and easy to run from the terminal.
@@ -42,6 +43,8 @@ This folder is used for daily LeetCode problem solving in Python.
 - Run the script after implementing the solution to confirm sample cases pass.
 - If a problem requires multiple examples, include them in the driver as assertions or prints.
 - If a solution is wrong or incomplete, revise it and re-run the checks.
+- Before committing a finished solution, add a one-line time/space complexity comment
+  above the solution method (e.g. `# Time: O(n), Space: O(1)`).
 
 ## Non-goals
 - No Git commits unless requested.
