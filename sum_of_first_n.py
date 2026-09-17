@@ -1,6 +1,9 @@
 class Solution:
     def sumOfFirstN(self, n: int) -> int:
-        pass
+        if n == 0:
+            return 0
+        return n + self.sumOfFirstN(n - 1)
+        
 
 
 if __name__ == "__main__":
